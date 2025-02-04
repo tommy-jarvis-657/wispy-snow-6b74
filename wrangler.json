@@ -1,0 +1,23 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "wispy-snow-6b74",
+  "upload_source_maps": true,
+  "kv_namespaces": [
+    {
+      "binding": "AUTH_STORAGE",
+      "id": "c55fecf173804499ad784bedfab291d0"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "AUTH_DB",
+      "database_name": "twilight-rain-cc76-d1",
+      "database_id": "ea7042a8-0e67-4690-a1b7-c5b65039761f"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "compatibility_flags": ["nodejs_compat"]
+}
